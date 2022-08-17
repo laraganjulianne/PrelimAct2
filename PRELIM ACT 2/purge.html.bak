@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>TOP 10 FAVORITE MOVIES</title>
+	<link type="text/css" />
+</head>
+<style>
+	
+	img {
+		width: 200px;
+		height: 300px;
+	}
+	body {
+		font-family: Verdana;
+		text-align: center;
+		margin: 50px;
+		background-color: gray;
+	}
+	
+	
+	
+
+	
+	
+</style>
+<body>
+	<h2>Purge Anarchy</h2>
+	<img src="purge.jpg">
+	<h4>The New Founders of America invite you to celebrate your annual right to Purge. 
+	The Purge: Anarchy takes it to the streets for the country’s yearly 12 hours of anarchy, 
+	when all crime is legal. This new story follows an unlikely group of five strangers over 
+	the course of the night. As they fight to survive a night fraught with impossible decisions, 
+	these strangers will find out just how far they will go to protect themselves and, ultimately, each other.</h4>
+	<h4><a href="Prelim_Act2.html">Go back</h4>
+</html>
+</body>
+	
+

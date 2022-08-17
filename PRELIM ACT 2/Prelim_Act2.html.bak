@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>TOP 10 FAVORITE MOVIES</title>
+	<link type="text/css" />
+</head>
+<style>
+	
+	img {
+		width: 300px;
+		height: 400px;
+	}
+	body {
+		font-family: Verdana;
+		margin-left: 500px;
+		background-color: cyan;
+	}
+	h2 {
+		margin-left: 40px;
+	}
+	li {
+		font-size: 20px;
+	}
+	
+	
+
+	
+	
+</style>
+<body>
+	<h2>TOP 10 FAVORITE MOVIES</h2>
+	<div>
+	<ul>
+		<div>
+		<li><a href="thenotebook.html">The Notebook</li>
+		<img src="thenotebook.jpg">
+		</div>
+		<div>
+		<li><a href="thevow.html">The Vow</li>
+		<img src="thevow.jpg">
+		</div>
+		<div>
+		<li><a href="avatar.html">Avatar</li>
+		<img src="avatar.jpg">
+		</div>
+		<div>
+		<li><a href="warmbodies.html">Warm Bodies</li>
+		<img src="warmbodies.jpg">
+		</div>
+		<div>
+		<li><a href="homealone.html">Home Alone Lost in New York</li>
+		<img src="homealone.jpg">
+		</div>
+		<div>
+		<li><a href="awalk.html">A Walk to Remember</li>
+		<img src="awalk.jpg">
+		</div>
+		<div>
+		<li><a href="purge.html">Purge Anarchy</li>
+		<img src="purgeanarchy.jpg">
+		</div>
+		<div>
+		<li><a href="thegrinch.html">The Grinch</li>
+		<img src="thegrinch.jpg">
+		</div>
+		<div>
+		<li><a href="zombieland.html">Zombieland</li>
+		<img src="zombieland.jpg">
+		</div>
+		<div>
+		<li><a href="matilda.html">Matilda</li>
+		<img src="matilda.jpg">
+		</div>
+		<div>
+		<table border="2">
+		<tr>
+			<th>TOP 10 FAVORITE MOVIES</th>
+		</tr>
+		<tr>
+			<td>The Notebook</td>
+		</tr>
+		<tr>
+			<td>The Vow</td>
+		</tr>
+		<tr>
+			<td>Avatar</td>
+		</tr>
+		<tr>
+			<td>Warm Bodies</td>
+		</tr>
+		<tr>
+			<td>Home Alone Lost in New York</td>
+		</tr>
+		<tr>
+			<td>A Walk to Remember</td>
+		</tr>
+		<tr>
+			<td>Purge Anarchy</td>
+		</tr>
+		<tr>
+			<td>The Grinch</td>
+		</tr>
+		<tr>
+			<td>Zombieland</td>
+		</tr>
+		<tr>
+			<td>Matilda</td>
+		</tr>
+		</table>
+		</div>
+	</ul>
+	</div>
+</html>
+</body>
+	
